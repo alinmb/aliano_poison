@@ -79,9 +79,9 @@ These values can all be adjusted in the config.lua file to suit your server's ne
 4. Add item's images from the folder "images" in aliano_poison to your ox_inventory in ox_inventory/web/images.
 5. Once you done it, delete the images "ox_images" folder.
 
-## Preview
+## Preview (click on the image bellow)
 
-[![Présentation YouTube du script](https://img.youtube.com/vi/KK90zA0C54Y/0.jpg)](https://www.youtube.com/watch?v=KK90zA0C54Y)
+[![Présentation YouTube du script](https://img.youtube.com/vi/KK90zA0C54Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=KK90zA0C54Y)
 
 ---
 
